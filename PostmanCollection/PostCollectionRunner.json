@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "d00f6997-9d6a-40d1-b1f4-bc7cb8737414",
+		"name": "PostCollectionRunner",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42935484",
+		"_collection_link": "https://speeding-firefly-596252.postman.co/workspace/3ac68390-0cb9-4217-8aff-810c6ac23343/collection/42935484-d00f6997-9d6a-40d1-b1f4-bc7cb8737414?action=share&source=collection_link&creator=42935484"
+	},
+	"item": [
+		{
+			"name": "Creating a resource runner",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-type",
+						"value": "application/json; charset=UTF-8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n{\r\n  \"title\": \"{{title}}\",\r\n  \"body\": \"{{body}}\",\r\n  \"userId\": {{userId}}\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/posts",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
