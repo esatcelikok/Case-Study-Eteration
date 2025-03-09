@@ -12,3 +12,8 @@ DemoSoapTestSuit de yapılan caseler
 
 .(-) değerler girme 
 
+
+
+
+
+
