@@ -1,4 +1,7 @@
 
+
+DemoSoapTestSuit de yapılan caseler
+
 .Geçersiz karakter girme(?,!,\,vs)
 
 .Boş karakter girme 
