@@ -7,6 +7,8 @@ daha sonra homepagede eğitmenler botuna basıldığında doğru sayfaya gidiyor
 Sayfadaki eğitmenlerin boş olup olmadığı ve sayısını döndürmesini check ettim.
 
 selenium Web driver 
+
 testng 
+
 Java kullanıldı
 
