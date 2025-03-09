@@ -1,6 +1,6 @@
-Tests case
-.invalidcracters ceheck
-.empity input check
-.load tests
-#Scriton shuts
 
+.Geçersiz karakter girme(?,!,\,vs)
+.Boş karakter girme 
+.500 hatası alımı
+.400 hatası alımı
+.(-) değerler girme 
